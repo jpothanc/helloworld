@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kalje\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kalje\\.nuget\\packages"
+    ]
+  }
+}
